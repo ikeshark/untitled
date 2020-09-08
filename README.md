@@ -1,3 +1,19 @@
+#TAB / CHORDS SHARE APP
+
+##FEATURES
+- autoscroll
+- transposition
+- organize songs into song books
+- share song books / songs with friends
+- no sleep
+- offline
+- tab lookup?
+
+##TECH
+- Sapper
+- db (Firebase)
+
+##PEP TALKS
 Let's do it!
 - joe
 
