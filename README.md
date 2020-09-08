@@ -1,6 +1,6 @@
-#TAB / CHORDS SHARE APP
+# TAB / CHORDS SHARE APP
 
-##FEATURES
+## FEATURES
 - autoscroll
 - transposition
 - organize songs into song books
@@ -9,11 +9,11 @@
 - offline
 - tab lookup?
 
-##TECH
+## TECH
 - Sapper
 - db (Firebase)
 
-##PEP TALKS
+## PEP TALKS
 Let's do it!
 - joe
 
