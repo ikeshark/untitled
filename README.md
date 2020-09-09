@@ -2,15 +2,16 @@
 
 ## FEATURES
 
-- V1.0
-  - autoscroll
-  - transposition
+- MVP
+  - account registration / login
   - organize songs into song books
   - share song books / songs with friends
   - no sleep
+- V1.0
+  - autoscroll
+  - transposition
   - offline
   - tab lookup?
-  - account registration / login
   - users w/ same unique url will autoscroll page at same speed
   - audio recording / playback
 - V2.0
@@ -18,11 +19,15 @@
 ## TECH
 
 - Sapper
-- db (Firebase)
+- db (Firebase? open to something else...)
 - netlify (free hosting or does firebase have this built in?)
+  - Firebase does have a free tier for hosting but open to trying something else
 - scss (w/ css vars?)
+  - for CSS I usually go with no preprocessor and Tailwind (w/ Purge), but open to other things
 - js libraries (barbajs, gsap?)
+  - Svelte has pretty awesome out-of-the-box support for transition animations, I’d say let’s add as needed
 - somewhere to store audio files (unless we can use phone storage)
+  - yeah maybe store tabs on DB and audio files on phone?
 
 ## APPLICATIONS PARTS
 
@@ -45,6 +50,7 @@
 
 - last 2 version of evergreen browsers
 - lo siento ie11.
+- Fuck it, never look at caniuse 
 
 ## QUESTIONS
 
@@ -56,6 +62,10 @@ Let's do it!
 Yay, first time repo contributor!
 
 - joe
+
+Life is good, Anything is possible!
+
+- Dud, Lodge 49
 
 # sapper-template
 
