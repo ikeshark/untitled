@@ -53,6 +53,7 @@
 ## PEP TALKS
 
 Let's do it!
+Yay, first time repo contributor!
 
 - joe
 
