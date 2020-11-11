@@ -11,13 +11,13 @@
   - offline
   - tab lookup?
   - account registration / login
-  - users w/ same unique url will autoscroll page at same speed
+  - users w/ same unique url will autoscroll (scroll sync) page at same speed
   - audio recording / playback
 - V2.0
 
 ## TECH
 
-- Sapper
+- Sapper vs [Future Sapper](https://www.youtube.com/watch?v=qSfdtmcZ4d0) vs [Routify](https://routify.dev/)
 - db (Firebase)
 - netlify (free hosting or does firebase have this built in?)
 - scss (w/ css vars?)
